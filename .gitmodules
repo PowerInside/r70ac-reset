@@ -1,0 +1,3 @@
+[submodule "rkflashtool"]
+	path = rkflashtool
+	url = https://github.com/linux-rockchip/rkflashtool
